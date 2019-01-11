@@ -1,0 +1,1 @@
+Number of droplets detected: 31	 Average frequency: 22.169	 Frequency standard deviation: 0.360	

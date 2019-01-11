@@ -1,0 +1,1 @@
+Number of droplets detected: 31	 Average length: 219.743	 Length standard deviation: 10.702	 Average width: 175.090	 Width standard deviation: 8.798	

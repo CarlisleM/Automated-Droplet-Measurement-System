@@ -1,0 +1,1 @@
+Number of droplets detected: 31	 Average equivalent diameter: 114752.661	 Equivalent diameter standard deviation: 12156.979	

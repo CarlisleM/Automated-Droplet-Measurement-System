@@ -1,0 +1,1 @@
+Number of droplets detected: 31	 Average Area: 6011.806	 Area standard deviation: 106.025	 Average length: 219.743	 Length standard deviation: 10.702	 Average width: 175.090	 Width standard deviation: 8.798	 Average separation: 1121.715	 Separation standard deviation: 10.511	 Average frequency: 4.434	 Frequency standard deviation: 0.072	 

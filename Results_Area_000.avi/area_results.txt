@@ -1,0 +1,1 @@
+Number of droplets detected: 31	 Average area: 6011.806	 Area standard deviation: 106.025	

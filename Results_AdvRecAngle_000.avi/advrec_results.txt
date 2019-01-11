@@ -1,0 +1,1 @@
+Number of droplets detected: 31	 Average advancing angle: 27.948	 Advancing angle standard deviation: 5.368	 Average receding angle: 60.592	 Receding angle standard deviation: 17.278	

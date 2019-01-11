@@ -1,0 +1,1 @@
+Number of droplets detected: 31	 Average separation: 1121.715	 Separation standard deviation: 10.511	
